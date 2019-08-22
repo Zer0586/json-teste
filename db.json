@@ -9,7 +9,10 @@
             "Keanu Reaves",
             "Halle Berry", 
             "Ian McShane"
-        ]
+        ],
+        "rate": 7.8,
+        "year": 2019,
+        "duration": 131
     },
     {
         "id": 2,
@@ -19,7 +22,10 @@
         "director": "David Leitch",
         "stars": [
             "Dwayne Johnson", "Jason Statham", "Idris Elba"
-        ]
+        ],
+        "rate": 6.8,
+        "year": 2019,
+        "duration": 137
     },
     {
         "id": 3,
@@ -29,6 +35,22 @@
         "director": "Jon Favreau",
         "stars": [
             "Donald Glover", "Beyoncé", "Seth Rogen"
-        ]
+        ],
+        "rate": 7.1,
+        "year": 2019,
+        "duration": 118
+    },
+    {
+        "id": 4,
+        "name": "Once Upon a Time in... Hollywood",
+        "cover": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY209_CR0,0,140,209_AL_.jpg",
+        "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "director": "Quentin Tarantino",
+        "stars": [
+            "Leonardo DiCaprio", "Brad Pitt", "Margot Robbie", "Emile Hirsch"
+        ],
+        "rate": 8.2,
+        "year": 2019,
+        "duration": 161
     }
 ]
