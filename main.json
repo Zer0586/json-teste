@@ -14,5 +14,13 @@
     "language": "pt",
     "region": "PT",
     "value": 45000
+  },
+  {
+    "model": "mx",
+    "options": { "TRIM": ["MXAWD"] },
+    "market": "PT",
+    "language": "pt",
+    "region": "PT",
+    "value": 123000
   }
 ]
